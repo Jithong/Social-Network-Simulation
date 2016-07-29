@@ -1,0 +1,43 @@
+===========================================================================================
+To add a user: 1 FirstName LastName Year Zip
+To add a friend connection: 2 FirstName LastName FirstName LastName
+To remove a friend connection: 3 FirstName LastName FirstName LastName
+To print out a list of users with their associated data: 4
+To print out a list of a user's friends with their associated data: 5 FirstName LastName
+To make a text file out of current users and their data: 6 filename
+To find the distance between two users: 7 FirstName LastName FirstName LastName
+To print out a list of disjoint groups and their users: 8
+To print out a friend suggestion: 9 FirstName LastName
+To exit: 0 or an integer not between 1 and 9
+===========================================================================================
+Distance: 2
+Barack Obama -> James Polk -> George Washington
+Distance: 2
+Harry Truman -> Andrew Johnson -> Abraham Lincoln
+Distance: 2
+Gerald Ford -> Andrew Jackson -> Calvin Coolidge
+The strongest candidates(s) is/are:
+                  James Monroe                Score: 1
+               Martin VanBuren                Score: 1
+              William Harrison                Score: 1
+                Zachary Taylor                Score: 1
+               Franklin Pierce                Score: 1
+                Andrew Johnson                Score: 1
+                James Garfield                Score: 1
+                Warren Harding                Score: 1
+                Herbert Hoover                Score: 1
+             Dwight Eisenhower                Score: 1
+                   Gerald Ford                Score: 1
+                  Bill Clinton                Score: 1
+                  Barack Obama                Score: 1
+The strongest candidates(s) is/are:
+                    John Adams                Score: 2
+                   JohnQ Adams                Score: 2
+The strongest candidates(s) is/are:
+                Andrew Johnson                Score: 2
+The strongest candidates(s) is/are:
+                Warren Harding                Score: 3
+The strongest candidates(s) is/are:
+                Andrew Johnson                Score: 2
+                Woodrow Wilson                Score: 2
+
